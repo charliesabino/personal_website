@@ -193,9 +193,8 @@ function Resume() {
               <dt className="sr-only">Date</dt>
               <dd
                 className="ml-auto text-xs text-zinc-400 dark:text-zinc-500"
-                aria-label={`${role.start.label ?? role.start} until ${
-                  role.end.label ?? role.end
-                }`}
+                aria-label={`${role.start.label ?? role.start} until ${role.end.label ?? role.end
+                  }`}
               >
                 <time dateTime={role.start.dateTime ?? role.start}>
                   {role.start.label ?? role.start}
@@ -259,11 +258,11 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Hi, I'm Charlie.
+            Hi, I&apos;m Charlie.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I'm a student at the University of Chicago studying computer science and
-            economics.
+            I&apos;m a student at the University of Chicago studying computer
+            science and economics.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
