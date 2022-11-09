@@ -37,22 +37,22 @@ export default function Uses() {
       </Head>
       <SimpleLayout
         title="Software I use, gadgets I love, and other things I recommend."
-        // intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+      // intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
             <Tool title="14” MacBook Pro, M1 Max, 16RAM (2021)">
               I was using an Intel-based MacBook Pro prior to this and the
-              difference is night and day. I’ve never heard the fans turn on a
-              single time, even under the incredibly heavy loads I put it
+              difference is night and day. I&apos;ve never heard the fans turn
+              on a single time, even under the incredibly heavy loads I put it
               through.
             </Tool>
             <Tool title="Apple iPad Pro">
               Excellent for handwritten note-taking and mind-mapping.
             </Tool>
             <Tool title="Herman Miller Aeron Chair">
-              If I’m going to slouch in the worst ergonomic position imaginable
-              all day, I might as well do it in an expensive chair.
+              If I&apos;m going to slouch in the worst ergonomic position
+              imaginable all day, I might as well do it in an expensive chair.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Development tools">
@@ -62,7 +62,7 @@ export default function Uses() {
               and Which-Key.
             </Tool>
             <Tool title="Kitty" href="https://sw.kovidgoyal.net/kitty/">
-              My terminal of choice. GPU and rendered, easily configurable, and
+              My terminal of choice. GPU rendered, easily configurable, and has
               built in terminal multiplexing.
             </Tool>
           </ToolsSection>
