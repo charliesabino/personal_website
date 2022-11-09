@@ -61,24 +61,25 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              Hey, I'm Charlie Sabino.
+              Hey, I&apos;m Charlie Sabino.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I'm an undergraduate student at the University of Chicago
-                studying computer sciene and technology. I'm passionate about
-                technology and how I can use it to improve the lives of others.
+                I&apos;m an undergraduate student at the University of Chicago
+                studying computer sciene and technology. I&apos;m passionate
+                about technology and how I can use it to improve the lives of
+                others.
               </p>
               <p>
-                Currently, I'm working part-time as a software engineer at a
-                local startup called FoodFight. I aspire to run my own
+                Currently, I&apos;m working part-time as a software engineer at
+                a local startup called FoodFight. I aspire to run my own
                 successful startup one day, and have made several attempts at
                 doing so thus far.
               </p>
               <p>
                 Some of my hobbies include brewing coffee, cooking, reading
-                books, and listening to podcasts. I frequently explore different
-                interests, teaching myself new skills along the way.
+                books, and listening to podcasts. I enjoy exploring my many
+                different interests, teaching myself new skills along the way.
               </p>
             </div>
           </div>
