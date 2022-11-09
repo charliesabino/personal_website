@@ -104,7 +104,7 @@ export default function Uses() {
             </Tool>
             <Tool title="Superhuman" href="https://superhuman.com/">
               My email client of choice. Uses Vim keybinds, which, if you
-              haven't noticed yet, I&apos;m a pretty big fan of.
+              haven&apos;t noticed yet, I&apos;m a pretty big fan of.
             </Tool>
           </ToolsSection>
           {/* <ToolsSection title="Websites/Articles"> */}
