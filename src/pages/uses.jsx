@@ -51,7 +51,7 @@ export default function Uses() {
               Excellent for handwritten note-taking and mind-mapping.
             </Tool>
             <Tool title="Apple iPhone 14 Pro">
-              Sick camera and battery life; just wish it was USB-C.
+              Has sick camera and battery life; I just wish it was USB-C.
             </Tool>
           </ToolsSection>
           <ToolsSection title="Development Tools">
