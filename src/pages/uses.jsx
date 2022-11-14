@@ -78,14 +78,8 @@ export default function Uses() {
               free collection of extensions.
             </Tool>
             <Tool title="Yabai" href="https://github.com/koekeishiya/yabai">
-              My favorite window manager on Mac. Relies on{' '}
-              <a
-                href="https://github.com/koekeishiya/skhd"
-                className="border-b border-b-slate-200"
-              >
-                skhd
-              </a>
-              , and can be configured with Vim bindings.
+              My favorite window manager on Mac. Relies on skhd , and can be
+              configured with Vim bindings.
             </Tool>
             <Tool title="Better Touch Tool" href="https://folivora.ai/">
               Easy global hotkey configuration. I use it to automatically
