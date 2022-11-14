@@ -50,6 +50,9 @@ export default function Uses() {
             <Tool title="Apple iPad Pro and Apple Pencil">
               Excellent for handwritten note-taking and mind-mapping.
             </Tool>
+            <Tool title="Apple iPhone 14 Pro">
+              Sick camera and battery life; just wish it was USB-C.
+            </Tool>
           </ToolsSection>
           <ToolsSection title="Development Tools">
             <Tool title="NeoVim" href="https://neovim.io/">
