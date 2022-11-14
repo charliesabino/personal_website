@@ -36,26 +36,22 @@ export default function Uses() {
         />
       </Head>
       <SimpleLayout
-        title="Software I use, gadgets I love, and other things I recommend."
-      // intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+        title="Stuff I use to procrasinate more efficiently."
+        // intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="14” MacBook Pro, M1 Max, 16RAM (2021)">
-              I was using an Intel-based MacBook Pro prior to this and the
-              difference is night and day. I&apos;ve never heard the fans turn
-              on a single time, even under the incredibly heavy loads I put it
-              through.
+            <Tool title="14” MacBook Pro, M1 Pro, 16RAM (2021)">
+              Apple&apos;s Silicon is game changing. Super snappy experience and
+              handles pretty much everything I throw at it. Plan to stick with
+              MacOS for the foreseeable future—the Apple ecosystem is just too
+              good.
             </Tool>
-            <Tool title="Apple iPad Pro">
+            <Tool title="Apple iPad Pro and Apple Pencil">
               Excellent for handwritten note-taking and mind-mapping.
             </Tool>
-            <Tool title="Herman Miller Aeron Chair">
-              If I&apos;m going to slouch in the worst ergonomic position
-              imaginable all day, I might as well do it in an expensive chair.
-            </Tool>
           </ToolsSection>
-          <ToolsSection title="Development tools">
+          <ToolsSection title="Development Tools">
             <Tool title="NeoVim" href="https://neovim.io/">
               A vastly superior fork of Vim. Highly exensible using Lua. Some of
               my favorite plugins include Neo-Tree, Telescope, ToggleTerm, cmp,

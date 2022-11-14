@@ -67,19 +67,19 @@ export default function About() {
               <p>
                 I&apos;m an undergraduate student at the University of Chicago
                 studying computer sciene and technology. I&apos;m passionate
-                about technology and how I can use it to improve the lives of
-                others.
+                about technology, computer science,
               </p>
               <p>
                 Currently, I&apos;m working part-time as a software engineer at
-                a local startup called FoodFight. I aspire to run my own
-                successful startup one day, and have made several attempts at
-                doing so thus far.
+                a local startup called FoodFight. I aspire to head my own
+                startup in the future.
               </p>
               <p>
                 Some of my hobbies include brewing coffee, cooking, reading
-                books, and listening to podcasts. I enjoy exploring my many
-                different interests, teaching myself new skills along the way.
+                books (Brandon Sanderson, Nassim Taleb), and listening to
+                podcasts (Lex Fridman, Huberman Lab, The Knowledge Project). I
+                am curious and spend almost all of my free time learning
+                something new.
               </p>
             </div>
           </div>
