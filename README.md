@@ -1,1 +1,1 @@
-My personal website, which can be found at www.charliesabino.com
+Deprecated, see https://github.com/charliesabino/astro_portfolio
